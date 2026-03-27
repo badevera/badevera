@@ -1,9 +1,12 @@
 # 👋 Hi, I’m Benjamin
 - I am a Senior at Seattle University majoring in Computer Science
-- 👀 I’m interested in lifting weights, basketball, listening to music, and video games.
-- 🌱 I’m currently learning C++, C#, Java, and Python.
-- 💞️ I’m looking to collaborate on any project that piques my interest.
+- 👀 I’m looking to collaborate on any project that allows me to grow and utilize my knowledge.
+- 🌱 I’ve worked with C++, C#, Java, Python, and Typescript/Javascript.
+- I'm interested in video games, music, cars, and learning new skills. 
 - 📫 How to reach me: badevera04@gmail.com
+
+> [!NOTE]
+> Currently working on a personal website, will update and link when finished
 
 <!---
 badevera/badevera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
